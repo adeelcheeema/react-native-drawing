@@ -26,7 +26,7 @@ Features
 -------------
 Install from `npm` (only support RN >= 0.40)
 ```bash
-npm install @adeelcheeema/react-native-sdrawing --save
+npm install @adeelcheeema/react-native-drawing --save
 ```
 
 ## Usage
